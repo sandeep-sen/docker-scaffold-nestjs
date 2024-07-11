@@ -1,0 +1,5 @@
+services:
+  app:
+    image: docker-scaffold-nestjs
+    ports:
+      - "3000:3000"
