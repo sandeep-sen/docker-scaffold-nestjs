@@ -5,6 +5,7 @@
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter with Docker.
 
 **POST:** http://{{hostname}}:{{PORT}}/getresults
+
 Accepts only JSON payload, all other payloads return an error
 ```bash
 curl --request POST \
